@@ -1,0 +1,7 @@
+bert-base-multilingual-cased
+distilbert-base-multilingual-cased
+gpt2
+indic_bert
+xlm-roberta-base
+xlnet-base-cased
+
